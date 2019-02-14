@@ -1,0 +1,2 @@
+# HelloWorldAzure
+HTTP trigger API
